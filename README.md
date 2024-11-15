@@ -8,4 +8,4 @@
 
 ## Xor
 
-<img src="./Screenshot 2024-11-15 152314.png"
+<img src="./Screenshot 2024-11-15 152314.png"/>
